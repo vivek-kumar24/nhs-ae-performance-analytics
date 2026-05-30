@@ -2,8 +2,6 @@
 
 > A full end-to-end healthcare data analytics project built on **real NHS England data** — covering A&E performance, trolley waits, 12-hour severe breaches, and regional benchmarking across 200+ NHS Trusts over four financial years (2022–2026).
 
-🔗 **[View Live Dashboard →](https://app.powerbi.com/your-link-here)**
-
 ---
 
 ## 📌 Project Overview
