@@ -198,15 +198,5 @@ Some NHS Trusts changed their name during the 4-year period. SUMMARIZE would cre
 **Why mark dim_date as a Date Table?**  
 Power BI time intelligence functions (SAMEPERIODLASTYEAR, TOTALYTD) only work correctly when a dedicated Date Table is marked. Without this, year-on-year comparisons return wrong results.
 
----
-
-## 👤 About
-
-Built by **[Md Arshad Ahammed (Ash)](https://arshadadvisory.com)** — Data Analyst specialising in healthcare analytics, SQL, Power BI, and Python.
-
-📬 [arshadadvisory.com](https://arshadadvisory.com)
-
----
-
 *NHS data published by NHS England under the Open Government Licence v3.0.*  
 *This project is for portfolio and educational purposes only.*
